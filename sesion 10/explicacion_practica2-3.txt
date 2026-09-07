@@ -1,0 +1,4 @@
+el resultado distinto en practica 3 y practica 4 al modificar listas con funciones como append()
+no se requiere un "global", pero para modificar una variable si. ademas, en practica 3 al solicitar
+el parametro "salario", se crea una variable local que almacena el valor recibido, por lo que se esta
+modificando esa variable en lugar de la variable global.
